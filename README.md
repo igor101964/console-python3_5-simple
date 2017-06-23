@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # console-python3-simple
 
 Python 3 Sample Application
@@ -15,6 +16,10 @@ FROM [codenvy/ubuntu_python](https://hub.docker.com/r/codenvy/ubuntu_python/)
 | #       | Description           | Command  |
 | :------------- |:-------------| :-----|
 | 1      | Run | `cd ${current.project.path} && python main.py` |
+=======
+# console-python3_5-simple
+pythontuts
+>>>>>>> refs/remotes/pythontuts/master
 =======
 # console-python3_5-simple
 pythontuts
