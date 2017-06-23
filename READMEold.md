@@ -18,4 +18,4 @@ FROM [codenvy/ubuntu_python](https://hub.docker.com/r/codenvy/ubuntu_python/)
 =======
 # console-python3_5-simple
 pythontuts
->>>>>>> refs/remotes/pythontuts/master
+>>>>>>> refs/heads/master
