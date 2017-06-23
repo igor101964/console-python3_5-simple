@@ -1,21 +1,16 @@
-<<<<<<< HEAD
 # console-python3-simple
 
-Python 3 Sample Application
+Python 3 Template
 
 # Developer Workspace
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=jajnjj3zoznlzg54)
+[![Contribute](http://www.appservgrid.com/images/devlogo.svg)](http://www.appservgrid.com/paw3)
 
 # Stack to use
 
-FROM [codenvy/ubuntu_python](https://hub.docker.com/r/codenvy/ubuntu_python/)
+FROM [Art2Dec](https://www.art2dec.com/paw3)
 
 # How to run
 
 | #       | Description           | Command  |
 | :------------- |:-------------| :-----|
 | 1      | Run | `cd ${current.project.path} && python main.py` |
-=======
-# console-python3_5-simple
-pythontuts
->>>>>>> refs/remotes/pythontuts/master
