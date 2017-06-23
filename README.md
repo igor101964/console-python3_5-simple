@@ -7,7 +7,7 @@ Python 3 Template
 
 # Stack to use
 
-FROM [Art2Dec](https://www.art2dec.com/paw3)
+FROM [Art2Dec](http://www.art2dec.com/paw3)
 
 # How to run
 
